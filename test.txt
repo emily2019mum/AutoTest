@@ -3,3 +3,4 @@ master test
 1111111这是master分支上的内容
 这是mergedemo分支上添加的内容
 这是解决冲突后合并的内容
+version1
